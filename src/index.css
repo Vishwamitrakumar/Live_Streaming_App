@@ -1,0 +1,47 @@
+.home-page .form label {
+     display: block;
+     margin-bottom: 25px;
+     font-size: 25px;
+
+}
+
+.home-page {
+     max-width: 20rem;
+     height: 25vh;
+     background-color: white;
+     border-radius: 10px;
+     padding: 20px;
+     margin: auto;
+     border: 3px solid gray;
+
+     box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.2);
+}
+
+.int {
+     width: 200px;
+     border-radius: 5px;
+     height: 30px;
+}
+
+.int-continer {
+     margin-bottom: 20px;
+}
+
+.btn {
+     width: 215px;
+     height: 35px;
+     background-color: rgb(26, 26, 309);
+     border-radius: 5px;
+     cursor: pointer;
+     color: white;
+
+}
+
+input[type="text"] {
+     padding-left: 10px;
+}
+
+.btn:hover {
+     background-color: rgb(20, 20, 243);
+     cursor: pointer;
+}
